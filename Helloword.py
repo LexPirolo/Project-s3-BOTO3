@@ -1,2 +1,2 @@
-saudacao ="Hello Words"
+saudacao ="Hello World"
 print("Olá bem vindo ao " + saudacao)
